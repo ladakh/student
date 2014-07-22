@@ -1,0 +1,22 @@
+{
+  "name": "student",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ladakh/student",
+  "authors": [
+    "Aditya Bakle <adityabakle@gmail.com>"
+  ],
+  "description": "'Student info system'",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.20"
+  }
+}
