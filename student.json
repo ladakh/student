@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "firstName": "Clark",
+        "lastName": "Kenth",
+        "address": {
+            "lineOne": "",
+            "lineTwo": "",
+            "city": "",
+            "state": "",
+            "country": "",
+            "postalCode": ""
+        },
+        "email": "ckenth@gmail.com",
+        "phone": "",
+        "mobile": "",
+        "twitter": "",
+        "facebook": "",
+        "linkedIn":"",
+        "googlePlus": ""
+    },
+    {
+        "id": 2,
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "address": {
+            "lineOne": "",
+            "lineTwo": "",
+            "city": "",
+            "state": "",
+            "country": "",
+            "postalCode": ""
+        },
+        "email": "tstark@gmail.com",
+        "phone": "",
+        "mobile": "",
+        "twitter": "",
+        "facebook": "",
+        "linkedIn":"",
+        "googlePlus": ""
+    },
+    {
+        "id": 3,
+        "firstName": "Steve",
+        "lastName": "Roggers",
+        "address": {
+            "lineOne": "",
+            "lineTwo": "",
+            "city": "",
+            "state": "",
+            "country": "",
+            "postalCode": ""
+        },
+        "email": "sroggers@gmail.com",
+        "phone": "",
+        "mobile": "",
+        "twitter": "",
+        "facebook": "",
+        "linkedIn":"",
+        "googlePlus": ""
+    }
+]

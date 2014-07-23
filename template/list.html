@@ -1,0 +1,13 @@
+<h3>List of Students : </h3>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Action</th>
+    </tr>
+    <tr ng-repeat="student in students | orderBy:'firstName'">
+        <td>{{student.id}}</td>
+        <td>{{student.firstName + ' ' + student.lastName}}</td>
+        <td><a href="#/{{student.id}}">Details</a></td>
+    </tr>
+</table>
