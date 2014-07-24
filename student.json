@@ -4,19 +4,19 @@
         "firstName": "Clark",
         "lastName": "Kenth",
         "address": {
-            "lineOne": "",
-            "lineTwo": "",
-            "city": "",
-            "state": "",
-            "country": "",
-            "postalCode": ""
+            "lineOne": "Faith Lane",
+            "lineTwo": "2S",
+            "city": "Kenth",
+            "state": "KR",
+            "country": "Krypton",
+            "postalCode": "9SUPER"
         },
         "email": "ckenth@gmail.com",
-        "phone": "",
+        "phone": "9856565656",
         "mobile": "",
-        "twitter": "",
-        "facebook": "",
-        "linkedIn":"",
+        "twitter": "clarkkenth",
+        "facebook": "clark_kenth",
+        "linkedIn": "clark.kenth",
         "googlePlus": ""
     },
     {
@@ -24,19 +24,19 @@
         "firstName": "Tony",
         "lastName": "Stark",
         "address": {
-            "lineOne": "",
+            "lineOne": "2500 W Malibu",
             "lineTwo": "",
-            "city": "",
-            "state": "",
-            "country": "",
-            "postalCode": ""
+            "city": "Santa Monika",
+            "state": "CA",
+            "country": "USA",
+            "postalCode": "94041"
         },
         "email": "tstark@gmail.com",
-        "phone": "",
+        "phone": "4088239961",
         "mobile": "",
-        "twitter": "",
-        "facebook": "",
-        "linkedIn":"",
+        "twitter": "tstark",
+        "facebook": "ironman_tstark",
+        "linkedIn": "tony.stark",
         "googlePlus": ""
     },
     {
@@ -44,12 +44,12 @@
         "firstName": "Steve",
         "lastName": "Roggers",
         "address": {
-            "lineOne": "",
+            "lineOne": "451 Clarkson Ave",
             "lineTwo": "",
-            "city": "",
-            "state": "",
-            "country": "",
-            "postalCode": ""
+            "city": "Brooklyn",
+            "state": "NY",
+            "country": "USA",
+            "postalCode": "11203"
         },
         "email": "sroggers@gmail.com",
         "phone": "",
